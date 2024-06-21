@@ -9,7 +9,7 @@
   <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/jhonbergmann/recipes-playlist" />
 </p>
 
-<p align="center">Simple video player application, separated by modules using Tailwind for customization and Zustand for status management</p>
+<p align="center">Simple video player application, separated by modules using Tailwind for customization and Zustand for state management</p>
 
 <br>
 
@@ -26,7 +26,7 @@
 
 [check in package.json](/package.json)
 
-## **_</p>_** Installation
+## </> Installation
 
 1. Install **Yarn** on your computer
 1. Clone this repository `git clonehttps://github.com/jhonbergmann/recipes-playlist.git`
