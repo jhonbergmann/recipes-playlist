@@ -29,7 +29,7 @@
 ## </> Installation
 
 1. Install **Yarn** on your computer
-1. Clone this repository `git clonehttps://github.com/jhonbergmann/recipes-playlist.git`
+1. Clone this repository `git clone https://github.com/jhonbergmann/recipes-playlist.git`
 
 ### ⚙️ Usage
 
