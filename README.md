@@ -17,7 +17,7 @@
   <img src="docs/assets/preview.gif" alt="preview" >
 </p>
 
-## 🌐 Done with
+## 📦 Tech Stack
 
 - Vite
 - Typescript
@@ -26,16 +26,20 @@
 
 [check in package.json](/package.json)
 
-## </> Installation
+## 🔩 Installation
 
-1. Install **Yarn** on your computer
-1. Clone this repository `git clone https://github.com/jhonbergmann/recipes-playlist.git`
+To install and run the project locally, follow these steps:
 
-### ⚙️ Usage
+1. Install [**Yarn**](https://yarnpkg.com/) on your computer
+1. Clone the repository `git clone https://github.com/jhonbergmann/recipes-playlist.git`
+1. Navigate to the project directory: `cd recipes-playlist`
+1. Install the dependencies: `yarn install`
 
-1. Access the directory and give the command `yarn install`
-1. Access the folder and give the command `yarn server` and `yarn dev`
-1. Now access the following url in your browser `http://localhost:5173/`
+## ⚙️ Usage
+
+1. Start the development server: `yarn server` and `yarn dev`
+1. Now access the following url in your browser: `http://localhost:5173/`
+
 
 ## 📝 License
 
