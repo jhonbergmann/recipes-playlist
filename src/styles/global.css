@@ -3,5 +3,6 @@
 @tailwind utilities;
 
 body {
+  min-width: 1300px;
   -webkit-font-smoothing: antialiased;
 }
