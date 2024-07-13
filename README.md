@@ -9,13 +9,11 @@
   <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/jhonbergmann/recipes-playlist" />
 </p>
 
-<p align="center">Simple video player application, separated by modules using Tailwind for customization and Zustand for state management</p>
-
-<br>
-
 <p align="center">
-  <img src="docs/assets/preview.gif" alt="preview" >
+  <img src="docs/assets/illustration.png" alt="" >
 </p>
+
+<p align="center">Simple video player application, separated by modules using Tailwind for customization and Zustand for state management</p>
 
 ## 📦 Tech Stack
 
